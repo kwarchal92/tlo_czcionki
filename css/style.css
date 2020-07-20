@@ -1,0 +1,43 @@
+section{
+    background-color: darkolivegreen;
+}
+
+h1{
+    background-color: rebeccapurple;
+}
+
+p{
+    background-color: saddlebrown;
+}
+
+h2{
+    background-color: springgreen;
+}
+
+span > p{
+    background-color: salmon;
+}
+
+ol{
+    background-color: brown;
+}
+
+span > li{
+    color:#3b2015;
+}
+
+span2 > li{
+    color: chartreuse;
+}
+
+span3 > li{
+    color: darkgray;
+}
+
+span4 > li{
+    color: darkorchid;
+}
+
+span5 >li{
+    color: dimgrey;
+}
