@@ -22,22 +22,22 @@ ol{
     background-color: brown;
 }
 
-span > li{
+.col1{
     color:#3b2015;
 }
 
-span2 > li{
-    color: chartreuse;
+.col2{
+    color:#15700d;
 }
 
-span3 > li{
-    color: darkgray;
+.col3{
+    color:#0a528d;
 }
 
-span4 > li{
-    color: darkorchid;
+.col4{
+    color:#b62846;
 }
 
-span5 >li{
-    color: dimgrey;
+.col5{
+    color:#97330c;
 }
